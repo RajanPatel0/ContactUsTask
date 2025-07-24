@@ -1,0 +1,2 @@
+.env   # this file has PORT and MONGO_URI variables
+node_modules
