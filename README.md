@@ -38,3 +38,5 @@ npm run dev
 
 MONGO_URI=your_mongodb_connection_string
 
+#RESULT SCREENSHOTS
+![alt text](<Screenshot (561).png>) ![alt text](<Screenshot (566).png>) ![alt text](<Screenshot (567).png>) ![alt text](<Screenshot (568).png>) ![alt text](<Screenshot (570).png>) ![alt text](<Screenshot (571).png>) ![alt text](<Screenshot (572).png>) ![alt text](<Screenshot (573).png>)
