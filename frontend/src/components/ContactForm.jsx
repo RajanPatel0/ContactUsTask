@@ -28,7 +28,7 @@ const ContactForm = () => {
 
     try {
       // 1. This one is to Send to MongoDB
-      const res = await axios.post("http://localhost:5000/api/contact", formData);
+      const res = await axios.post("https://contactustask.onrender.com/api/contact", formData);
 
       // 2. & this is EmailJS - for sending email
       await emailjs.send(
