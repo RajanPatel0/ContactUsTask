@@ -9,9 +9,9 @@ dotenv.config();
 const app=express();
 
 app.use(cors({
-  origin: 'http://localhost:5173', //my frontend URL
-  credentials: true
+  origin: "https://contact-us-task-qxx4.vercel.app"  //my production ready frontend
 }));
+
 app.use(express.json());
 app.use(express.urlencoded({extended: true }));
 
